@@ -37,7 +37,7 @@ Customer: Hi, I was charged twice for my January premium subscription. Can you h
 Agent: Hello! I'm so sorry to hear about the double charge. I completely understand how frustrating that is. Let me look into your account right away..
 
 Project Structure:: 
-•	ollama_colab_setup.ipynb: The main notebook containing the environment setup and chat logic. 
+•	DeepSeek-R1_via_Ollama_Support_Chat.ipynb: The main notebook containing the environment setup and chat logic. 
 •	README.md: Project documentation. 
 •	requirements.txt: List of necessary Python libraries.
 
