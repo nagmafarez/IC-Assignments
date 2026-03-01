@@ -1,0 +1,8 @@
+REQUIREMENTS FOR DEEPSEEK-OLLAMA COLAB PROJECT::
+
+ollama
+requests
+pandas
+threading
+subprocess
+re
